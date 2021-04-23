@@ -1,0 +1,5 @@
+23-04-2021 10:36:09 - ERROR - v: 7.1.2 - m: 44,0 МБ, u: 1 - cURL error 28: Resolving timed out after 5515 milliseconds (http_request_failed) - 
+23-04-2021 10:36:12 - ERROR - v: 7.1.2 - m: 43,9 МБ, u: 1 - cURL error 28: Resolving timed out after 5515 milliseconds (http_request_failed) - 
+23-04-2021 10:36:12 - ERROR - v: 7.1.2 - m: 47,4 МБ, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+23-04-2021 10:36:14 - ERROR - v: 7.1.2 - m: 47,4 МБ, u: 1 - cURL error 6: Could not resolve host: www.thenewsletterplugin.com (http_request_failed) - 
+23-04-2021 10:39:25 - ERROR - v: 7.1.2 - m: 48,8 МБ, u: 1 - 
